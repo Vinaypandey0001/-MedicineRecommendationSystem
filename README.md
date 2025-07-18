@@ -28,9 +28,3 @@ This project analyzes symptoms using a supervised ML model to predict possible m
 
 ---
 
-## 🚀 Installation
-
-1️⃣ Clone this repository:
-```bash
-git clone https://github.com/your-username/medicine-recommendation-system.git
-cd medicine-recommendation-system
